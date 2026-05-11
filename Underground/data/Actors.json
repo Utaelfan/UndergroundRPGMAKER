@@ -2,7 +2,7 @@
 null,
 {"id":1,"battlerName":"UtaelBattler","characterIndex":0,"characterName":"UtaelWalking","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"UtaelFace","traits":[],"initialLevel":1,"maxLevel":99,"name":"Utael","nickname":"","note":"","profile":""},
 {"id":2,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Ryfried","nickname":"","note":"","profile":""},
-{"id":3,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Aziz","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"AzizBattler","characterIndex":0,"characterName":"AzizWalking","classId":9,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"AzizFace","traits":[],"initialLevel":1,"maxLevel":99,"name":"Aziz","nickname":"","note":"","profile":""},
 {"id":4,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Quetron","nickname":"","note":"","profile":"Surveyor and Protector of The Collection\n"},
 {"id":5,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"NekoSenshi","nickname":"","note":"","profile":""},
 {"id":6,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Cutscene","nickname":"","note":"","profile":""},

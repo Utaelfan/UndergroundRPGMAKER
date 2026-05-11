@@ -1,11 +1,17 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Lagos, Nigeria","order":2,"parentId":0,"scrollX":1005.3333333333334,"scrollY":570.2222222222222,"quick":false},
-{"id":2,"expanded":true,"name":"Lagos","order":3,"parentId":1,"scrollX":1005.3333333333334,"scrollY":570.2222222222222,"quick":false},
-{"id":3,"expanded":true,"name":"Lagos, Underground","order":4,"parentId":2,"scrollX":1005.3333333333334,"scrollY":570.2222222222222,"quick":false},
-{"id":4,"expanded":false,"name":"Lagos Inn","order":6,"parentId":2,"scrollX":1005.3333333333334,"scrollY":570.2222222222222,"quick":false},
-{"id":5,"expanded":false,"name":"IntroCutscene","order":1,"parentId":0,"scrollX":1005.3333333333334,"scrollY":570.2222222222222,"quick":false},
+{"id":1,"expanded":true,"name":"Lagos, Nigeria","order":2,"parentId":0,"scrollX":759.3333333333334,"scrollY":724.3333333333334,"quick":false},
+{"id":2,"expanded":true,"name":"Lagos","order":3,"parentId":1,"scrollX":754,"scrollY":628.3333333333334,"quick":false},
+{"id":3,"expanded":true,"name":"Lagos, Underground","order":4,"parentId":2,"scrollX":759.3333333333334,"scrollY":654.3333333333334,"quick":false},
+{"id":4,"expanded":false,"name":"Lagos Inn","order":6,"parentId":2,"scrollX":754,"scrollY":427.6666666666667,"quick":false},
+{"id":5,"expanded":false,"name":"IntroCutscene","order":1,"parentId":0,"scrollX":754,"scrollY":427.6666666666667,"quick":false},
 {"id":6,"expanded":false,"name":"Lagos Sewers","order":5,"parentId":2,"scrollX":754,"scrollY":629.6666666666666,"quick":false},
-{"id":7,"expanded":false,"name":"Lagos Underground Caverns","order":7,"parentId":2,"scrollX":754,"scrollY":532.3333333333334,"quick":false},
-{"id":8,"expanded":false,"name":"EVENTMAP","order":8,"parentId":0,"scrollX":0,"scrollY":0,"quick":false}
+{"id":7,"expanded":false,"name":"Lagos Underground Caverns","order":7,"parentId":2,"scrollX":754,"scrollY":479,"quick":false},
+{"id":8,"expanded":false,"name":"EVENTMAP","order":10,"parentId":0,"scrollX":754,"scrollY":427.6666666666667,"quick":false},
+{"id":9,"expanded":false,"name":"Lagos Underground Caverns","order":8,"parentId":2,"scrollX":754,"scrollY":479,"quick":false},
+{"id":10,"expanded":false,"name":"Lagos Underground Docks","order":9,"parentId":2,"scrollX":754,"scrollY":427.6666666666667,"quick":false},
+{"id":11,"expanded":true,"name":"Tunisia","order":11,"parentId":0,"scrollX":754,"scrollY":427.6666666666667,"quick":false},
+{"id":12,"expanded":true,"name":"Chikly Fort","order":12,"parentId":11,"scrollX":754,"scrollY":427.6666666666667,"quick":false},
+{"id":13,"expanded":true,"name":"Aziz's Castle","order":13,"parentId":12,"scrollX":0,"scrollY":0,"quick":false},
+{"id":14,"expanded":false,"name":"Aziz's Lair","order":14,"parentId":13,"scrollX":0,"scrollY":0,"quick":false}
 ]
