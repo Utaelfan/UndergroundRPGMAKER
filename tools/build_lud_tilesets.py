@@ -259,6 +259,14 @@ def build_report(
     lines.extend(
         [
             "",
+            "## Placement Guidance",
+            "",
+            "- Treat visually continuous neighboring tiles as composite objects, not standalone tiles.",
+            "- When placing furniture or props, place the complete footprint in the same relative order as the source sheet.",
+            "- Never place only the first or upper-left tile of a multi-tile object unless a broken fragment is intended.",
+            "- Before finalizing map edits, check each furniture or object placement for missing companion tiles.",
+            "- If a tile might belong to a composite object and the full footprint is unclear, use a clearly standalone tile instead.",
+            "",
             "## Limitations",
             "",
             "- The source pack does not expose RPG Maker A1-A4 autotile structure metadata.",
